@@ -1,0 +1,23 @@
+{
+  "name": "scooter-hire-system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RSalcido2019/Scooter-Hire-System.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RSalcido2019/Scooter-Hire-System/issues"
+  },
+  "homepage": "https://github.com/RSalcido2019/Scooter-Hire-System#readme",
+  "dependencies": {
+    "jest": "^27.0.6",
+    "save": "^2.4.0"
+  }
+}
